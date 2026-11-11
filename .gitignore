@@ -17,3 +17,4 @@ uv.lock
 
 __pycache__/
 *.so
+.venv/

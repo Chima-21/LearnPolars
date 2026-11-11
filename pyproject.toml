@@ -28,4 +28,5 @@ dependencies = [
     "hvplot==0.12.0",
     "vegafusion[embed]==1.6.9",
     "polars==2.1.0",
+    "connectorx>=0.4.6",
 ]
